@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rio24067831-boop.github.io/freesia-lp/sitemap.xml
